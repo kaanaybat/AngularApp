@@ -1,0 +1,5 @@
+dotnet new webapi -o folder -n name  --> create webapi
+
+dotnet ef migrations add InitialCreate  --> create ef migrations
+
+dotnet ef database update  --> create database
