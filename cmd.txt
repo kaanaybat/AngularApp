@@ -10,7 +10,7 @@ dotnet ef database update  --> create database
 
 npm install -g @angular/cli@6.0.8 --> install angular cli
 
-ng new ProjectNama --> create angular project
+ng new ProjectName --> create angular project
 
 ng serve --> run app
 
